@@ -12,7 +12,7 @@ const Sky = () => {
 			x={skyAndGroundWidth / -2}
 			y={100 - gameHeight}
 			width={skyAndGroundWidth}
-			height={gameHeight}
+			height={1200}
 		/>
 	);
 };
